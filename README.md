@@ -30,7 +30,7 @@ A React application for browsing and managing your favourite movies using the TM
   npm run dev
 
 
-**Features**
+**Features**:
 Browse popular movies.
 Search for movies.
 Add or remove movies from favourites.
